@@ -1,0 +1,5 @@
+matplotlib
+numpy
+sympy
+qiskit-ibm-runtime
+pytest
